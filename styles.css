@@ -1,1 +1,15 @@
-/*# sourceMappingURL=styles.css.map */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+  letter-spacing: 0.4s;
+}
+
+body {
+  background-color: #f3f3f3;
+  height: 100%;
+  background: linear-gradient(135deg, #6f6df4, #4c4af4) fixed;
+  background-size: 100% 50%;
+  background-repeat: no-repeat;
+}/*# sourceMappingURL=styles.css.map */
